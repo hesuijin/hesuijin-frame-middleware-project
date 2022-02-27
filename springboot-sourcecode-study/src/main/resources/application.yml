@@ -1,0 +1,9 @@
+helloworld:
+  configurationproperties:
+    name: hello_hesuijin
+    age: hello_18
+
+hello:
+  world:
+    name: hesuijin
+    age: 18
