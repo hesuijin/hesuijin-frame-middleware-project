@@ -1,7 +1,6 @@
-package com.example.demo.configuration;
+package com.example.demo.helloworldcomponent.configuration;
 
 import lombok.Data;
-import org.springframework.stereotype.Component;
 
 /**
  * @Description:

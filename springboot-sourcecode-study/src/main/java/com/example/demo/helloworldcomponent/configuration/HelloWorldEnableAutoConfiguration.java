@@ -1,6 +1,5 @@
-package com.example.demo.configuration;
+package com.example.demo.helloworldcomponent.configuration;
 
-import lombok.Builder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
