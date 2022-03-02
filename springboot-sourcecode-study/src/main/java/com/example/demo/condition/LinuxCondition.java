@@ -67,5 +67,4 @@ public class LinuxCondition implements Condition {
         return annotationAttributes;
     }
 
-
 }
